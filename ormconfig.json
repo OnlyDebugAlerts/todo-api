@@ -2,8 +2,8 @@
   "type": "postgres",
   "host": "localhost",
   "port": 5432,
-  "username": "dsp",
-  "password": "dsp",
+  "username": "postgres",
+  "password": "admin",
   "database": "nest",
   "entities": ["dist/**/*.entity{.ts,.js}"],
   "synchronize": true
